@@ -1,4 +1,4 @@
-# Caulculadora-de-Média-UNIP-ADS
+# Calculadora-de-Média-UNIP-ADS
 
 Calculadora desenvolvida com python e TKinter.
 A persistência, motivação e dedicação nos torna capazes.
